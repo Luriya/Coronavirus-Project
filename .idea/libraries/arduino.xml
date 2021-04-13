@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="arduino">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/arduino/jssc-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/arduino/arduino.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

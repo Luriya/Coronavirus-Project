@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="py">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/py/json4s-jackson_2.12-3.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/py/json4s-ast_2.12-3.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/py/jackson-databind-2.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/py/json4s-scalap_2.12-3.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/py/json4s-core_2.12-3.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/py/jackson-annotations-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/py/jackson-core-2.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/py/scala-xml_2.12-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/py/py.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/py/paranamer-2.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

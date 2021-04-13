@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="view2.5d">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/view2.5d/jogl-all-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/view2.5d/view2.5d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/view2.5d/gluegen-rt-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

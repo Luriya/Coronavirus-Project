@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="csv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/csv/commons-csv-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/csv/csv.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

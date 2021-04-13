@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gogo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/gogo/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/gogo/hid4java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/gogo/gogo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/gogo/gogo-daemon.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

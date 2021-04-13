@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bitmap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/bitmap/bitmap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sample-scala">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/sample-scala/sample-scala.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

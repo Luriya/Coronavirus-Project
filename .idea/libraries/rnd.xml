@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rnd">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/netlogo-libraries/extensions/.bundled/rnd/rnd.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
